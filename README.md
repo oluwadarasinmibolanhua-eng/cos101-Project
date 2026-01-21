@@ -1,2 +1,3 @@
 # cos101-p
-none
+-Seyi-Project lead
+
