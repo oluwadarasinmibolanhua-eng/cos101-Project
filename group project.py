@@ -21,5 +21,25 @@ French = {
         'Love' : 'Amour',
         'Music' : 'Musique',
 }
-
-    
+Igala = {
+    "come": "ya",
+    "stand": "de",
+    "sit": "kpe",
+    "Eat": "Unu",
+    "morning": "okpo",
+    "night": "oche",
+    "we/us": "enye",
+    "water": "omi",
+    "drink": "mu",
+    "Face": "eji",
+    "understand": "ma",
+    "how": "ele",
+    "long time": "akpa kpekpe",
+    "school": "sukulu",
+    "Love": "Ufedo",
+    "tomorrow": "ojo ale",
+    "write": "kwo",
+    "car": "moto",
+    "how was your day": "ele ne ojo che",
+    "did you sleep well": "ma kpe chọ",
+} 
