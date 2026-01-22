@@ -43,5 +43,3 @@ Igala = {
     "how was your day": "ele ne ojo che",
     "did you sleep well": "ma kpe chọ",
 } 
-
-
